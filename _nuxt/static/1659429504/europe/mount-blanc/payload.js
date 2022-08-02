@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/europe/mount-blanc", {data:[{continent:"Europe",mountain:"Mont Blanc"}],fetch:{},mutations:void 0});

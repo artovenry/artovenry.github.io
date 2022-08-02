@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/africa/mount-kilimanjaro", {data:[{continent:"Africa",mountain:"Mount Kilimanjaro"}],fetch:{},mutations:void 0});

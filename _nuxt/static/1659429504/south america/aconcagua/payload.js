@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/south%20america/aconcagua", {data:[{continent:"South America",mountain:"Aconcagua"}],fetch:{},mutations:void 0});

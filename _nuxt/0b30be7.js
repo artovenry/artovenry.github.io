@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{332:function(n,t,l){"use strict";l.r(t);var r={asyncData:function(n){return{slug:n.params.slug}}},e=l(67),component=Object(e.a)(r,(function(){var n=this,t=n._self._c;return t("div",[t("h1",[n._v(n._s(n.slug))]),t("p",[n._v("Path: "+n._s(n.$route.path))])])}),[],!1,null,null,null);t.default=component.exports}}]);
