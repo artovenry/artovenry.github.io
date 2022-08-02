@@ -12,7 +12,7 @@ export default {
     const mountains = await fetch('https://api.nuxtjs.dev/mountains')
       .then((res) => res.json())
 
-    return { mountains }
+    return { mountains: mountains.reverse() }
   },
 }
 </script>
