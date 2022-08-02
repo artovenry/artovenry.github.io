@@ -2,6 +2,9 @@ export default {
   ssr: true,
   target: 'static',
   components: true,
+  router:{
+    prefetchLinks: false
+  },
   buildModules: [
     '@nuxt/typescript-build',
   ],
