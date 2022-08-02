@@ -3,7 +3,7 @@ export default {
   target: 'static',
   components: true,
   router:{
-    prefetchLinks: false
+    prefetchLinks: true
   },
   buildModules: [
     '@nuxt/typescript-build',
